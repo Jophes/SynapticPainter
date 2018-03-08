@@ -1,0 +1,14 @@
+{
+  "name": "painter",
+  "version": "0.0.0",
+  "description": "A neural network painter that uses Synaptics",
+  "main": "index.js",
+  "author": "Jophes",
+  "private": true,
+  "dependencies": {
+    "synaptic": "^1.1.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
